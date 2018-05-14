@@ -1,6 +1,3 @@
-title: Welcome to Cakirtav's homepage :) 
-description: Keep an eye out for any project updates here!
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cakirtav/cakirtav.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
